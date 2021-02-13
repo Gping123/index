@@ -6,6 +6,9 @@ h1 {
     font-weight: 300;
     /* font-spacing:2px; */
     font-size: 48px;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
 }
 .header {
     position: relative;
